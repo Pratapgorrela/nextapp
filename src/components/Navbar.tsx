@@ -46,6 +46,7 @@ export default function Navbar() {
                       />
                     </>
                   )}
+                  <div className="ml-4 lg:ml-6 flow-root">Cart</div>
                 </div>
               </div>
             </div>
