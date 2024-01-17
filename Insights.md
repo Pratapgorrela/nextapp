@@ -8,7 +8,7 @@ yarn add lucide-react - Icons
 ## UI Library
 
 https://ui.shadcn.com/docs
-npx shadcn-ui@latest add button(name the component)
+npx shadcn-ui@latest add button(name the component)- To added required components from shadcn library
 
 ## UX measurement
 
