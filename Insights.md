@@ -4,6 +4,12 @@ npx create-next-app@latest digihippo
 yarn dev
 npx shadcn-ui@latest init - UI library for components
 yarn add lucide-react - Icons
+yarn add react-hook-form @hookform/resolvers zod sonner
+yarn add @trpc/client @trpc/next @trpc/react-query @trpc/server @tanstack/react-query
+
+## Backend packages
+
+yarn add express
 
 ## UI Library
 
@@ -23,6 +29,7 @@ outward - To select entire HTML of a selected tag
 ## Notes
 
 server components - for data fetching...
+tRPC - it allows us to maintain typesafety through FE and BE through both.
 
 ## External sites
 
